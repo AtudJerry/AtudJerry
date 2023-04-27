@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **JavaScript,Reactjs,Python**
 
-- 💬 Ask me about **Almighty God is primal to me. I'm Passionate about tech and carrier minded**
+- 💬About ::**Almighty God is primal to me. I'm Passionate about tech and carrier minded**
 
 - 📫 How to reach me **atudjerry33@gmail.com**
 
