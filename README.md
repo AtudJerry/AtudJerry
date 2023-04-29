@@ -3,7 +3,7 @@
 [![MasterHead](https://media.tenor.com/GVk4jB2u_i8AAAAM/coding.gif )](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Atud Jerry</h1>
 <h3 align="center">A passionate frontend developer from Cameroon, working with reactjs and JavaScript</h3>
-<img align="right" alt="Coding" width="450" height = "300" src="https://www.lambdatest.com/resources/images/news24.gif")>
+<img align="right" alt="Coding" width="400" height = "250" src="https://www.lambdatest.com/resources/images/news24.gif")>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atudjerry&label=Profile%20views&color=0e75b6&style=flat" alt="atudjerry" /> </p>
 
 <p align="left"> <a href="https://twitter.com/atudjerry" target="blank"><img src="https://img.shields.io/twitter/follow/atudjerry?logo=twitter&style=for-the-badge" alt="atudjerry" /></a> </p>
